@@ -1,0 +1,4 @@
+002-0878b00	TKD 16-0843b	buddhist/K-koreana/16-tif/0800-0899/16_0843_B.TIF
+000-0589c12	TKD 16-0843c	buddhist/K-koreana/16-tif/0800-0899/16_0843_C.TIF
+000-0590a02	TKD 16-0844a	buddhist/K-koreana/16-tif/0800-0899/16_0844_A.TIF
+000-0590a21	TKD 16-0844b	buddhist/K-koreana/16-tif/0800-0899/16_0844_B.TIF
