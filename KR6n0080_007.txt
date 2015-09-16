@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:44.508010
+#+DATE: 2015-08-30 20:57:49.649011
 #+TITLE: 大乘莊嚴經論
 #+PROPERTY: CBETA_ID T31n1604
 #+PROPERTY: ID KR6n0080
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1604
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0080_T_000-0589b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0080_T_007-0623c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《大乘莊嚴經論》卷第七¶
+《大乘莊嚴經論》卷第七¶
 ¶
 無著菩薩造¶
 大唐天竺三藏波羅頗蜜多羅譯¶
 
-15教授品
-:PROPERTIES:
-:head: 教授品第十五
-:END:
-¶
+教授品第十五¶
 
 釋曰。已說菩薩隨修。次說如來教授。偈曰。¶
 
@@ -539,11 +534,7 @@
 
 釋曰。此偈義如文顯現。教授品究竟。¶
 
-16業伴品
-:PROPERTIES:
-:head: 《大乘莊嚴經論》業伴品第十六
-:END:
-¶
+《大乘莊嚴經論》業伴品第十六¶
 
 釋曰。已說如來大教授。菩薩起業以方便為¶
 伴。今當說。偈曰。
@@ -613,12 +604,7 @@
 清淨。得度淨業海功德無有邊者。到業彼岸¶
 故。功德無邊者由無盡故。業伴品究竟。¶
 
-17度攝品
-之一
-:PROPERTIES:
-:head: 《大乘莊嚴經論》度攝品第十七之一
-:END:
-¶
+《大乘莊嚴經論》度攝品第十七之一¶
 
 釋曰。已說起業方便業所聚集諸波羅蜜。今¶
 當說。此中先說憂陀那偈。偈曰。¶

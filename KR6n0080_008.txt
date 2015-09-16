@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:44.539610
+#+DATE: 2015-08-30 20:57:49.684011
 #+TITLE: 大乘莊嚴經論
 #+PROPERTY: CBETA_ID T31n1604
 #+PROPERTY: ID KR6n0080
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1604
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0080_T_000-0589b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0080_T_008-0629b> 
 #+PROPERTY: JUAN 8
 ¶
-
- 《大乘莊嚴經論》卷第八¶
+《大乘莊嚴經論》卷第八¶
 ¶
 無著菩薩造¶
 大唐天竺三藏波羅頗蜜多羅譯¶
 
-之二
-:PROPERTIES:
-:head: 度攝品第十七之二
-:END:
-¶
+度攝品第十七之二¶
 
 釋曰。已說修習六波羅蜜。次說六波羅蜜差¶
 別。六波羅蜜差別各有六義。一者自性。二¶

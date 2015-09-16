@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:44.663419
+#+DATE: 2015-08-30 20:57:49.775567
 #+TITLE: 大乘莊嚴經論
 #+PROPERTY: CBETA_ID T31n1604
 #+PROPERTY: ID KR6n0080
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1604
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0080_T_000-0589b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0080_T_011-0644c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
-
- 《大乘莊嚴經論》卷第十一¶
+《大乘莊嚴經論》卷第十一¶
 ¶
 無著菩薩造¶
 大唐天竺三藏波羅頗蜜多羅譯¶
 
-之二
-:PROPERTIES:
-:head: 覺分品第二十一之二
-:END:
-¶
+覺分品第二十一之二¶
 
 釋曰。已說菩薩修習道分。次說菩薩修習止¶
 觀。偈言。¶
@@ -218,8 +213,7 @@
 畢竟寂滅。次第空等定修習有三種者。此中¶
 為知人法二無我故修空三昧。為斷彼二執¶
 所依故修無願三昧。為證彼依畢竟寂滅故¶
-修無相三昧。已說菩薩修習三三昧。次說菩¶
-薩四法憂陀那。偈曰。¶
+修無相三昧。已說菩薩修習三三昧。次說菩薩四法憂陀那。偈曰。¶
 
 #+BEGIN_VERSE
 「　如前三三昧

@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:44.473183
+#+DATE: 2015-08-30 20:57:49.610249
 #+TITLE: 大乘莊嚴經論
 #+PROPERTY: CBETA_ID T31n1604
 #+PROPERTY: ID KR6n0080
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1604
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0080_T_000-0589b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0080_T_006-0618c> 
 #+PROPERTY: JUAN 6
 ¶
-
- 《大乘莊嚴經論》卷第六¶
+《大乘莊嚴經論》卷第六¶
 ¶
 無著菩薩造¶
 大唐天竺三藏波羅頗蜜多羅譯¶
 
-13弘法品
-:PROPERTIES:
-:head: 弘法品第十三
-:END:
-¶
+弘法品第十三¶
 
 釋曰。已說求法。次應以法為人演說。偈曰。¶
 
@@ -424,11 +419,7 @@
 導引眾生多生恭敬。譬如日出照朗世間。弘¶
 法品究竟。¶
 
-14隨修品
-:PROPERTIES:
-:head: 《大乘莊嚴經論》隨修品第十四
-:END:
-¶
+《大乘莊嚴經論》隨修品第十四¶
 
 釋曰。已說菩薩弘法。次說菩薩隨法修行。此¶
 中隨修有知義有知法有隨法有同得有隨¶
