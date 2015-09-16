@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:44.367003
+#+DATE: 2015-08-30 20:57:48.810109
 #+TITLE: 大乘莊嚴經論
 #+PROPERTY: CBETA_ID T31n1604
 #+PROPERTY: ID KR6n0080
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1604
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6n0080_T_000-0589b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0080_T_003-0602a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《大乘莊嚴經論》卷第三¶
+《大乘莊嚴經論》卷第三¶
 ¶
 無著菩薩造¶
 大唐天竺三藏波羅頗蜜多羅譯¶
 
-10菩提品
-:PROPERTIES:
-:head: 菩提品第十
-:END:
-¶
+菩提品第十¶
 
 釋曰。已說菩薩成熟眾生。次說菩薩得一切¶
 種智。偈曰。¶
